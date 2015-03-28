@@ -1,0 +1,1 @@
+Sample codes on book Rambling on Design Patterns. It can run on Java 6 or above.
